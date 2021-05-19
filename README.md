@@ -1,7 +1,5 @@
 # send-file
-______________________
-# send file with python socket
-______________________
+send file with python socket
 1-run server 
 
 python server.py
@@ -11,4 +9,9 @@ ______________________
 python client.py
 
 input file name for send file to the server
+______________________
+
+# my telegram channel : 
+                   https://t.me/Python_MBH
+
 ______________________
