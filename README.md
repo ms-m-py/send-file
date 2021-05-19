@@ -1,2 +1,2 @@
 # send-file
-send file with python soket
+send file with python socket
