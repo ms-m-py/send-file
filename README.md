@@ -2,11 +2,11 @@
 send file with python socket
 1-run server 
 
-python3 server.py
+python server.py
 ______________________
 2-run client
 
-python3 client.py
+python client.py
 
 input file name for send file to the server
 ______________________
